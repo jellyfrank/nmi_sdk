@@ -1,0 +1,9 @@
+**/**.pyc
+.vscode
+__pycache__
+# sf/tests
+dist
+*.egg-info
+.coverage
+htmlcov
+build
